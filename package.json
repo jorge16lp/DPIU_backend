@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "start": "node app.js"
+  },
   "dependencies": {
     "cors": "^2.8.5",
     "crypto": "^1.0.1",
@@ -7,6 +10,7 @@
     "jsonwebtoken": "^9.0.2",
     "mysql": "^2.18.1",
     "sharp": "^0.32.6",
-    "util": "^0.12.5"
+    "util": "^0.12.5",
+    "vercel": "^32.5.0"
   }
 }
